@@ -1,3 +1,4 @@
 # auto detect files and perform LF normalization
 * text=auto
 __pycache__/
+images/
